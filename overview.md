@@ -2,7 +2,7 @@
 
 ### AI Engineer · Python Backend · Freelance AI & Blockchain Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-github/zhando6-black?style=for-the-badge&logo=vercel)](https://https://v0.app/@zhando6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vercel/zhando6-black?style=for-the-badge&logo=vercel)](https://v0.app/@zhando6)
 [![Email](https://img.shields.io/badge/Email-zhandosorymbetov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:zhandosorymbetov@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-zhandosorymbetov-purple?style=for-the-badge&logo=instagram)](https://instagram.com/zhandosorymbetov)
 [![Twitter/X](https://img.shields.io/badge/X-@zhando6m-black?style=for-the-badge&logo=x)](https://x.com/zhando6m)
